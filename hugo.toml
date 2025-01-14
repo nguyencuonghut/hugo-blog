@@ -34,7 +34,7 @@ disqusShortname = 'your-disqus-shortname' # <- Get form here : https://disqus.co
 		weight = 20
 	[[menu.main]]
 		name = 'Phân loại'
-		pageRef = '/tags/space/'
+		pageRef = '/categories/'
 		weight = 25
 
 [module]
