@@ -1,14 +1,14 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Tony Nguyen Blog'
 
 [[menus.main]]
-name = 'Home'
+name = 'Trang chủ'
 pageRef = '/'
 weight = 10
 
 [[menus.main]]
-name = 'Posts'
+name = 'Bài viết'
 pageRef = '/posts'
 weight = 20
 
