@@ -36,7 +36,7 @@
           </li>
 
           <li class="before:content-['•'] before:mr-2 before:opacity-50 my-2">
-            {{ .ReadingTime }} min read
+            {{ .ReadingTime }} phút đọc
           </li>
 
         </ul>
@@ -85,7 +85,7 @@
 
       <div id="comment" class="border p-8 bg-zinc-100 rounded-2xl">
 
-        <h2 class="text-xl font-semibold">Comment</h2>
+        <h2 class="text-xl font-semibold">Bình luận</h2>
 
         <p>Disqus comment here</p>
 
@@ -134,7 +134,7 @@
 
       <div id="related-post" class="">
 
-        <h2 class="text-xl md:text-2xl font-bold mb-6 md:mb-8">Recommended for You</h2>
+        <h2 class="text-xl md:text-2xl font-bold mb-6 md:mb-8">Đề xuất cho bạn</h2>
 
         {{- $related := .Site.RegularPages.Related . | first 2 -}}
 
