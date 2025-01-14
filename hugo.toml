@@ -21,11 +21,11 @@ disqusShortname = 'your-disqus-shortname' # <- Get form here : https://disqus.co
 
 [menu] # Menu management
 	[[menu.main]]
-		name = 'Home'
+		name = 'Trang chủ'
 		pageRef = '/'
 		weight = 10
 	[[menu.main]]
-		name = 'About'
+		name = 'Về tác giả'
 		pageRef = '/about'
 		weight = 15
 	[[menu.main]]
@@ -33,7 +33,7 @@ disqusShortname = 'your-disqus-shortname' # <- Get form here : https://disqus.co
 		pageRef = '/tags'
 		weight = 20
 	[[menu.main]]
-		name = 'Taxonomy'
+		name = 'Phân loại'
 		pageRef = '/tags/space/'
 		weight = 25
 
