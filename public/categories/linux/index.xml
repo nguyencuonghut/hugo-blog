@@ -6,6 +6,14 @@
     <description>Recent content in Linux on TONY NGUYEN</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+    <lastBuildDate>Wed, 15 Jan 2025 11:11:36 +0700</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cấu hình LAMP cho Manjaro</title>
+      <link>http://localhost:1313/posts/2025/cau-hinh-lamp-cho-manjaro/</link>
+      <pubDate>Wed, 15 Jan 2025 11:11:36 +0700</pubDate>
+      <guid>http://localhost:1313/posts/2025/cau-hinh-lamp-cho-manjaro/</guid>
+      <description>&lt;p&gt;This tutorial walk you through installing and configuring Apache, MySQL, PHP (LAMP).&#xA;LAMP is the the acronym of Linux, Apache, MySQL/MariaDB, PHP/Perl/Python.&lt;/p&gt;&#xA;&lt;h2 id=&#34;important&#34;&gt;Important&lt;/h2&gt;&#xA;&lt;p&gt;Never add packages without a full system sync - to sync your system execute&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;sudo pacman -Syu&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;blockquote&gt;&#xA;&lt;p&gt;The commands in this guide requires root permissions and must be prepended with sudo.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;install-apache&#34;&gt;Install Apache&lt;/h2&gt;&#xA;&lt;p&gt;Install Apache web server using command&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;pacman -S apache&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Edit the &lt;em&gt;/etc/httpd/conf/httpd.conf&lt;/em&gt; file,&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
