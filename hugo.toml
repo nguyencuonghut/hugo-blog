@@ -15,7 +15,7 @@ disqusShortname = 'your-disqus-shortname' # <- Get form here : https://disqus.co
 	description = 'Pehtheme Hugo Lite: A minimalist Hugo theme, built with TailwindCSS, for efficient performance and minimalism.'
 	mainSections = 'posts'
 	author.name = 'Tony Nguyen'
-	author.bio = 'Debitis assumenda esse dignissimos aperiam delectus maxime tenetur repudiandae dolore'
+	author.bio = 'Một người yêu thích mã nguồn mở và lập trình.'
 	author.avatar = '/images/nasa-astronaut-unsplash.jpg'
 	author.twitter = 'https://twitter.com/insertapps'
 
