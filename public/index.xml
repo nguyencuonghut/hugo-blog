@@ -6,8 +6,29 @@
     <description>Recent content on TONY NGUYEN</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Jan 2025 11:11:36 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2025 14:11:36 +0700</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cài đặt PrimeVue cho Laravel</title>
+      <link>http://localhost:1313/posts/2025/cai-dat-primevue-cho-laravel/</link>
+      <pubDate>Wed, 15 Jan 2025 14:11:36 +0700</pubDate>
+      <guid>http://localhost:1313/posts/2025/cai-dat-primevue-cho-laravel/</guid>
+      <description>&lt;h3 id=&#34;download&#34;&gt;Download&lt;/h3&gt;&#xA;&lt;p&gt;PrimeVue is available for download on npm registry.&lt;/p&gt;&#xA;&lt;h3 id=&#34;using-npm&#34;&gt;Using npm&lt;/h3&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;npm install primevue @primevue/themes&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;h3 id=&#34;using-yarn&#34;&gt;Using yarn&lt;/h3&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;yarn add primevue @primevue/themes&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;h3 id=&#34;using-pnpm&#34;&gt;Using pnpm&lt;/h3&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;pnpm add primevue @primevue/themes&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;h3 id=&#34;plugin&#34;&gt;Plugin&lt;/h3&gt;&#xA;&lt;p&gt;PrimeVue plugin is required to be installed as an application plugin to set up the default configuration. The plugin is lightweight, and only utilized for configuration purposes.&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;import { createApp } from &amp;#39;vue&amp;#39;;&#xA;import PrimeVue from &amp;#39;primevue/config&amp;#39;;&#xA;&#xA;const app = createApp(App);&#xA;app.use(PrimeVue);&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;h3 id=&#34;theme&#34;&gt;Theme&lt;/h3&gt;&#xA;&lt;p&gt;Configure PrimeVue to use a theme like Aura.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cài đặt ibus-bamboo gõ tiếng Việt trên Manjaro</title>
+      <link>http://localhost:1313/posts/2025/cai-dat-bamboo-go-tieng-viet-tren-manjaro/</link>
+      <pubDate>Wed, 15 Jan 2025 13:52:39 +0700</pubDate>
+      <guid>http://localhost:1313/posts/2025/cai-dat-bamboo-go-tieng-viet-tren-manjaro/</guid>
+      <description>&lt;p&gt;This tutorial walk you through installing and configuring Apache, MySQL, PHP (LAMP).&#xA;LAMP is the the acronym of Linux, Apache, MySQL/MariaDB, PHP/Perl/Python.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cài đặt Utterly Sweet KDE theme cho Manjaro</title>
+      <link>http://localhost:1313/posts/2025/cai-dat-theme-utterly-sweet-plasma-cho-manjaro/</link>
+      <pubDate>Wed, 15 Jan 2025 11:11:36 +0700</pubDate>
+      <guid>http://localhost:1313/posts/2025/cai-dat-theme-utterly-sweet-plasma-cho-manjaro/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Cấu hình LAMP cho Manjaro</title>
       <link>http://localhost:1313/posts/2025/cau-hinh-lamp-cho-manjaro/</link>
