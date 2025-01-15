@@ -1,4 +1,4 @@
-baseURL = 'https://pehtheme-hugo.netlify.app/'
+baseURL = 'https://nguyencuonghut.netlify.app/'
 languageCode = 'en-us'
 title = 'TONY NGUYEN'
 theme = 'pehtheme-hugo'
